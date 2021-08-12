@@ -1,0 +1,12 @@
+{ 
+  "ID": 1, 
+  "date": 20210503, 
+  "time": 1100, 
+  "temp1": 22.3, 
+  "light1": 135, 
+  "soil_moisture1": 5, 
+  "humidity1": 75.4, 
+  "soil_ph1": 6, 
+  "colour1": "3e4f11", 
+  "height1": 1.22
+  }
